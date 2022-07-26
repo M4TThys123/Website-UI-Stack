@@ -1,16 +1,16 @@
-# 🚀 Visitekaartje V2 x UI-Stack
+# 🚀  UI-Stack Template
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
 ## Wireflow & Breakdown schetsen
 
 ### 〰️ Empty State
-![Empty State](https://github.com/M4TThys123/connect-your-tribe-ui-stack/blob/main/assets/emptyState.JPG)
+![Empty State Picture]()
 
 ### 🚫 Error State
-![Error State](https://github.com/M4TThys123/connect-your-tribe-ui-stack/blob/main/assets/errorState.JPG)
+![Error State Picture]()
 
 ### ⏳ Loading State
-![Loading State](https://github.com/M4TThys123/connect-your-tribe-ui-stack/blob/main/assets/lodingState.JPG)
+![Loading State Picture]()
 
 
 ## Code 
